@@ -30,7 +30,8 @@
 ## Insights and Recommendations
 
 ### 1. **What are the overall sales trend over time?**
-![WhatsApp Image 2025-04-13 at 16 03 38_731ef70b](https://github.com/user-attachments/assets/8c6acb47-3176-4e1d-9768-0292be11bef9)
+![WhatsApp Image 2025-04-13 at 16 05 40_67028c0e](https://github.com/user-attachments/assets/08d33f12-1756-4867-b91e-aada528b27d5)
+
 
 
 **Insights:**
@@ -48,6 +49,8 @@
 ---
 
 ### 2. **Monthly Profit Trend**
+![WhatsApp Image 2025-04-13 at 16 04 14_a4c1d0b5](https://github.com/user-attachments/assets/089a1a37-931d-4cfd-8b3a-08840d8c2752)
+
 
 **Insights:**
 - **Fluctuating Profit Pattern**: Profit shows noticeable spikes and dips month-to-month, indicating inconsistent profitability.
@@ -61,7 +64,8 @@
 ---
 
 ### 3. **Which product categories and sub-categories are the most/least profitable?**
-![WhatsApp Image 2025-04-13 at 16 04 14_c51bbec1](https://github.com/user-attachments/assets/6fc69683-c6a1-4fa0-9ff7-5e9f6b403f8f)
+![WhatsApp Image 2025-04-13 at 16 04 14_a4c1d0b5](https://github.com/user-attachments/assets/74ace977-7604-498b-98b7-d37466119574)
+
 
 
 **Insights:**
@@ -78,10 +82,11 @@
 - **Optimize Office Supplies Offering**: Scale up inventory or promotions for Paper, Binders, and Storage. Investigate reasons for losses in Supplies and Fasteners, possibly due to high cost or low sales volume.
 - **Cross-Sell Opportunities**: Bundle moderately performing sub-categories (e.g., Chairs with Accessories or Storage with Phones).
 
----
+
 
 ### 4. **Which states and regions generate the highest and lowest profit?**
-![WhatsApp Image 2025-04-13 at 16 05 02_fa724256](https://github.com/user-attachments/assets/b0cde1ce-5358-4d73-88a1-881eb27f7289)
+![WhatsApp Image 2025-04-13 at 16 04 14_a4c1d0b5](https://github.com/user-attachments/assets/7206ad20-1fb2-4d9f-a897-37e1d0dc6b14)
+
 
 
 **Insights:**
@@ -101,7 +106,8 @@
 
 
 ### 5. **Which customer segments are the most valuable?**
-![WhatsApp Image 2025-04-13 at 16 05 02_fa724256](https://github.com/user-attachments/assets/af7291f1-7719-438f-99c5-b596e9a5d2b2)
+![WhatsApp Image 2025-04-13 at 16 04 14_a4c1d0b5](https://github.com/user-attachments/assets/33789eed-edad-4642-aaef-29d06613d80c)
+
 
 
 
@@ -117,7 +123,8 @@
 ---
 
 ### 6. **Top 10 Customers by Sales**
-![WhatsApp Image 2025-04-13 at 16 05 02_fa724256](https://github.com/user-attachments/assets/90377597-fd7b-4fa4-a7c8-97fbd93991e7)
+![WhatsApp Image 2025-04-13 at 16 04 14_a4c1d0b5](https://github.com/user-attachments/assets/6a196ced-65b3-41e7-8500-efc802d2b143)
+
 
 
 | Customer           | Sales       |
@@ -143,7 +150,8 @@
 ---
 
 ### 7. **Sales by Region and Segment**
-![WhatsApp Image 2025-04-13 at 16 05 02_fa724256](https://github.com/user-attachments/assets/b8370d65-4d03-47b3-8699-9adab864ceba)
+![WhatsApp Image 2025-04-13 at 16 04 14_a4c1d0b5](https://github.com/user-attachments/assets/b1145fae-9a64-442f-9927-6dc7f18a0966)
+
 
 
 **Insights:**
@@ -158,7 +166,8 @@
 4. **Corporate Sales Enhancement**: Offer customized business solutions for office setup and recurring needs.
 
 ### 8. 📊 **Sales vs Profit Scatter Plot — Key Insights & Actions**
-![WhatsApp Image 2025-04-13 at 16 05 40_67028c0e](https://github.com/user-attachments/assets/52c1f564-d8a1-4b25-9a98-61a72ffd5bf4)
+![WhatsApp Image 2025-04-13 at 16 04 14_a4c1d0b5](https://github.com/user-attachments/assets/3a6ee47d-2448-4328-99c8-bebe2023f225)
+
 
 
 #### 🔍 Observations:
