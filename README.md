@@ -2,6 +2,9 @@
 
 # Superstore Data Analysis
 
+## Project Background
+With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking to understand what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
+
 ## Dataset Info
 
 **Source**: Sample Superstore dataset from Kaggle  
